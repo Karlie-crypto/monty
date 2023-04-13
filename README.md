@@ -2,6 +2,8 @@ Project Name
 
 0x19. C - Stacks, Queues - LIFO, FIFO
 ![image](https://user-images.githubusercontent.com/110098940/231887828-9585310b-15e6-434a-9422-a02f5d6e8255.png)
+
+
 Table of Contents:
 
     Author Details
